@@ -37,7 +37,7 @@ val topLevelDomain = "org"
 val projectAuthors = listOfNotNull(mainProjectAuthor, "rolyPolyVole", "Esoteric Enderman")
 
 group = topLevelDomain + groupStringSeparator + "esoteric"
-version = "1.0.0-SNAPSHOT"
+version = "1.0.0"
 description = "A very simple Minecraft plugin which displays death messages for important entities."
 
 val javaVersion = 21
