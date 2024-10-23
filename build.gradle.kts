@@ -38,7 +38,7 @@ val projectAuthors = listOfNotNull(mainProjectAuthor, "rolyPolyVole", "Esoteric 
 
 group = topLevelDomain + groupStringSeparator + "esoteric"
 version = "1.0.0"
-description = "A very simple Minecraft plugin which displays death messages for important entities."
+description = "A very simple Minecraft plugin which displays death messages for important entities. Made for the SLIME SMP!"
 
 val javaVersion = 21
 val paperApiVersion = "1.21"
