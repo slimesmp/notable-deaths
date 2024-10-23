@@ -1,4 +1,4 @@
-package org.esoteric.minecraft.plugins.death.messages.better.event.listeners;
+package foundation.esoteric.minecraft.smps.slime.plugins.death.messages.better.event.listeners;
 
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.entities.MessageEmbed;
@@ -17,7 +17,7 @@ import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityDeathEvent;
-import org.esoteric.minecraft.plugins.death.messages.better.BetterDeathMessagesPlugin;
+import foundation.esoteric.minecraft.smps.slime.plugins.death.messages.better.BetterDeathMessagesPlugin;
 import org.jetbrains.annotations.NotNull;
 
 public class EntityDeathListener implements Listener {

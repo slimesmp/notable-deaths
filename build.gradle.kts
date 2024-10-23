@@ -78,6 +78,6 @@ bukkitPluginYaml {
 
   version = project.version.toString()
   apiVersion = paperApiVersion
-  main = project.group.toString() + groupStringSeparator + "minecraft.plugins.death.messages.better" + groupStringSeparator + pascalcase(rootProject.name)
+  main = project.group.toString() + groupStringSeparator + "minecraft.smps.slime.plugins.death.messages.better" + groupStringSeparator + pascalcase(rootProject.name)
   load = BukkitPluginYaml.PluginLoadOrder.STARTUP
 }
