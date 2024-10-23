@@ -30,7 +30,7 @@ public class EntityDamageListener implements Listener {
             return;
         }
 
-        if (event.getDamage() >= tamableEntity.getHealth()) {
+        if (event.getFinalDamage() >= tamableEntity.getHealth()) {
             tamableEntity.setOwner(null);
 
             PersistentDataContainer dataContainer = tamableEntity.getPersistentDataContainer();
