@@ -1,5 +1,7 @@
 # Better Death Messages Plugin
 
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+
 > A very simple Minecraft plugin which displays death messages for important entities. Made for the [SLIME SMP](https://github.com/SlimeSMP)!
 
 ## License
