@@ -16,4 +16,4 @@ This plugin was orginally made for the [Slime SMP](https://github.com/slimesmp)!
 
 ## Topics
 
-minecraft paper minecraft-plugin paper-plugin minecraft-java papermc minecraft-java-edition papermc-plugin papermc-plugins minecraft-paper minecraft-paper-plugin minecraft-java-plugin death-messages
+<sup/>minecraft paper minecraft-plugin paper-plugin minecraft-java papermc minecraft-java-edition papermc-plugin papermc-plugins minecraft-paper minecraft-paper-plugin minecraft-java-plugin death-messages<sup>
