@@ -2,7 +2,11 @@
 
 [![Project Status: Completed](./assets/images/badges/status.svg)](./)
 
-A very simple Minecraft plugin which displays death messages for important entities. Orginally made for the [Slime SMP](https://github.com/slimesmp)!
+A very simple Minecraft plugin which displays death messages for important entities.
+
+## History
+
+This plugin was orginally made for the [Slime SMP](https://github.com/slimesmp)!
 
 ## License
 
