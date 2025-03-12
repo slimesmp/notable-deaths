@@ -1,4 +1,4 @@
-# Better Death Messages Plugin
+# Notable Deaths
 
 [![Project Status: Completed](./assets/images/badges/status.svg)](./)
 
